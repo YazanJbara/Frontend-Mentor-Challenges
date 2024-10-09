@@ -2,8 +2,8 @@
 
 #### Blog Preview Card Challenge :
 
-##### Challenge Link : [text](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+##### Challenge Link :https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS
 
 #### The Result :
 
-![result] (Front-End-Mentor/blog-preview-card-main/result.png)
+![result!] (C:\Users\yazan\OneDrive\Desktop\Front-End-Mentor\blog-preview-card-main\result.png)
