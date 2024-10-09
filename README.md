@@ -6,4 +6,4 @@
 
 #### The Result :
 
-![result!] (C:\Users\yazan\OneDrive\Desktop\Front-End-Mentor\blog-preview-card-main\result.png)
+![alt text](blog-preview-card-main/result.png)
